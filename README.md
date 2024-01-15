@@ -6,5 +6,7 @@ With over 6 years of building & deploying software, automating tasks and foundin
 
 `Hi 👋, I'm Agbonze Osazuwa - Nice Having You Here`
 
+I'm currently building https://diarupt.ai
+
 
 
