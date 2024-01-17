@@ -6,7 +6,9 @@ With over 6 years of building & deploying software, automating tasks and foundin
 
 `Hi 👋, I'm Agbonze Osazuwa - Nice Having You Here`
 
-I'm currently building https://diarupt.ai
+#### I'm currently building Diarupt
+
+[Diarupt](https://diarupt.ai) is on a mission to improve the way we interact with systems and ourselves. The first wave is tailored to recruiters to help with interviews using a humanoid AI model which can have **realtime video based interaction in a fluid manner**. It does much more !!!
 
 
 
