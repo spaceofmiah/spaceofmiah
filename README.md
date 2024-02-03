@@ -8,7 +8,7 @@ With over 6 years of building & deploying software, automating tasks and foundin
 
 #### I'm currently building Diarupt
 
-[Diarupt](https://diarupt.ai) AI Teammates
+[Diarupt](https://diarupt.ai) - AI Teammates
 
 
 
