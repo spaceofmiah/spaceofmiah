@@ -3,11 +3,6 @@
 6 years of building production grade softwares, optimizing operational efficiency with custom built products & experimenting on solutions
 `Hi 👋, I'm Agbonze Osazuwa - Nice Having You Here`
 
-#### Hacking On
-
-[Jise](https://jise.ng) - Proximity Logistics
-
-
 ***********
 
-Read my articles on https://dev.to/spaceofmiah
+Read my articles on [dev.to](https://dev.to/spaceofmiah)
