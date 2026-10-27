@@ -3,6 +3,8 @@
 8 years of building production grade softwares, optimizing operational efficiency with custom built products & experimenting on solutions
 `Hi 👋, I'm Agbonze Osazuwa - Nice Having You Here`
 
+Architecting & Building Scalable Systems
+
 ***********
 
 Read my articles on [dev.to](https://dev.to/spaceofmiah)
